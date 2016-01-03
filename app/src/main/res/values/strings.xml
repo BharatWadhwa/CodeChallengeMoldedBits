@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoldedBits</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="internet_connectivity_error">Internet connectivity seems to be down.</string>
+    <string name="generic_error_response">Unable to fetch results</string>
+    <string name="fetching_results">Fetching results</string>
+    <string name="wait_message">Please wait..</string>
+    <string name="recent_posts">Recent Posts</string>
+
+</resources>
